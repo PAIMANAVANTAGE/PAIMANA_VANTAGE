@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.venv/
+venv/
+env/
+
+# Node / Vite
+node_modules/
+dist/
+build/
+*.tsbuildinfo
+
+# Local configuration / secrets
+.env
+.env.*
+!.env.example
+
+# Logs / OS files
+*.log
+.DS_Store
+Thumbs.db
+
+# Local runtime artefacts
+coverage/
+.pytest_cache/

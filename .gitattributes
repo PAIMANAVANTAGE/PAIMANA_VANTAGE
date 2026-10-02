@@ -1,0 +1,3 @@
+# Keep text diffs predictable across Windows/Linux contributors
+* text=auto
+*.bat text eol=crlf
